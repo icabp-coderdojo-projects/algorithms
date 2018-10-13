@@ -1,3 +1,5 @@
+/*By Eric Moynihan (TooFiveFive). I was in a hurry so this is probably not the most optimized solution but it works :) */
+
 #include <bits/stdc++.h>
 #include <algorithm>
 
